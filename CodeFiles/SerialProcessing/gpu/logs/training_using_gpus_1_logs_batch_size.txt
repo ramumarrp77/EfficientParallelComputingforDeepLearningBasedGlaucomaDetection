@@ -1,0 +1,78 @@
+2025-04-05 00:45:30,813 - INFO - Training with batch size 16...
+2025-04-05 00:45:30,835 - INFO - Loading data with batch size 16...
+2025-04-05 00:45:44,170 - INFO - Data shapes: Train (23898, 224, 224, 3), Val (5747, 224, 224, 3), Test (2874, 224, 224, 3)
+2025-04-05 00:46:40,241 - INFO - Epoch [1/10], Train Loss: 0.6469, Train Accuracy: 61.46%
+2025-04-05 00:46:44,319 - INFO - Validation Loss: 0.5691, Validation Accuracy: 72.93%
+2025-04-05 00:47:39,461 - INFO - Epoch [2/10], Train Loss: 0.6063, Train Accuracy: 66.67%
+2025-04-05 00:47:43,524 - INFO - Validation Loss: 0.5241, Validation Accuracy: 75.38%
+2025-04-05 00:48:38,501 - INFO - Epoch [3/10], Train Loss: 0.5453, Train Accuracy: 72.04%
+2025-04-05 00:48:42,550 - INFO - Validation Loss: 0.5166, Validation Accuracy: 78.55%
+2025-04-05 00:49:37,460 - INFO - Epoch [4/10], Train Loss: 0.4930, Train Accuracy: 76.07%
+2025-04-05 00:49:41,526 - INFO - Validation Loss: 0.4425, Validation Accuracy: 81.05%
+2025-04-05 00:50:36,509 - INFO - Epoch [5/10], Train Loss: 0.4565, Train Accuracy: 78.24%
+2025-04-05 00:50:40,565 - INFO - Validation Loss: 0.5143, Validation Accuracy: 76.07%
+2025-04-05 00:51:35,454 - INFO - Epoch [6/10], Train Loss: 0.4319, Train Accuracy: 79.90%
+2025-04-05 00:51:39,528 - INFO - Validation Loss: 0.3495, Validation Accuracy: 85.42%
+2025-04-05 00:52:34,343 - INFO - Epoch [7/10], Train Loss: 0.4099, Train Accuracy: 81.04%
+2025-04-05 00:52:38,405 - INFO - Validation Loss: 0.3991, Validation Accuracy: 83.28%
+2025-04-05 00:53:33,108 - INFO - Epoch [8/10], Train Loss: 0.3982, Train Accuracy: 81.68%
+2025-04-05 00:53:37,166 - INFO - Validation Loss: 0.3526, Validation Accuracy: 85.44%
+2025-04-05 00:54:32,299 - INFO - Epoch [9/10], Train Loss: 0.3877, Train Accuracy: 82.46%
+2025-04-05 00:54:36,370 - INFO - Validation Loss: 0.3219, Validation Accuracy: 86.51%
+2025-04-05 00:55:31,506 - INFO - Epoch [10/10], Train Loss: 0.3772, Train Accuracy: 83.00%
+2025-04-05 00:55:35,563 - INFO - Validation Loss: 0.3174, Validation Accuracy: 86.93%
+2025-04-05 00:55:35,567 - INFO - Training completed for batch size 16 in 590.64 seconds
+2025-04-05 00:55:37,727 - INFO - Test Loss: 0.3214, Test Accuracy: 86.57%
+2025-04-05 00:55:37,728 - INFO - Test AUC-ROC: 0.9302
+2025-04-05 00:55:37,806 - INFO - Training with batch size 32...
+2025-04-05 00:55:37,808 - INFO - Loading data with batch size 32...
+2025-04-05 00:55:50,105 - INFO - Data shapes: Train (23898, 224, 224, 3), Val (5747, 224, 224, 3), Test (2874, 224, 224, 3)
+2025-04-05 00:56:37,776 - INFO - Epoch [1/10], Train Loss: 0.6357, Train Accuracy: 61.71%
+2025-04-05 00:56:41,472 - INFO - Validation Loss: 0.5961, Validation Accuracy: 70.23%
+2025-04-05 00:57:28,660 - INFO - Epoch [2/10], Train Loss: 0.6000, Train Accuracy: 65.98%
+2025-04-05 00:57:32,354 - INFO - Validation Loss: 0.5990, Validation Accuracy: 71.31%
+2025-04-05 00:58:19,615 - INFO - Epoch [3/10], Train Loss: 0.5608, Train Accuracy: 70.18%
+2025-04-05 00:58:23,314 - INFO - Validation Loss: 0.5673, Validation Accuracy: 73.62%
+2025-04-05 00:59:10,514 - INFO - Epoch [4/10], Train Loss: 0.4932, Train Accuracy: 75.65%
+2025-04-05 00:59:14,216 - INFO - Validation Loss: 0.4709, Validation Accuracy: 79.57%
+2025-04-05 01:00:01,446 - INFO - Epoch [5/10], Train Loss: 0.4500, Train Accuracy: 78.66%
+2025-04-05 01:00:05,145 - INFO - Validation Loss: 0.4873, Validation Accuracy: 78.02%
+2025-04-05 01:00:52,418 - INFO - Epoch [6/10], Train Loss: 0.4211, Train Accuracy: 80.13%
+2025-04-05 01:00:56,138 - INFO - Validation Loss: 0.3614, Validation Accuracy: 84.53%
+2025-04-05 01:01:43,416 - INFO - Epoch [7/10], Train Loss: 0.3974, Train Accuracy: 81.34%
+2025-04-05 01:01:47,375 - INFO - Validation Loss: 0.4498, Validation Accuracy: 80.56%
+2025-04-05 01:02:34,614 - INFO - Epoch [8/10], Train Loss: 0.3869, Train Accuracy: 82.04%
+2025-04-05 01:02:38,316 - INFO - Validation Loss: 0.3195, Validation Accuracy: 86.38%
+2025-04-05 01:03:25,523 - INFO - Epoch [9/10], Train Loss: 0.3768, Train Accuracy: 82.82%
+2025-04-05 01:03:29,239 - INFO - Validation Loss: 0.3208, Validation Accuracy: 86.55%
+2025-04-05 01:04:16,459 - INFO - Epoch [10/10], Train Loss: 0.3662, Train Accuracy: 83.21%
+2025-04-05 01:04:20,155 - INFO - Validation Loss: 0.3088, Validation Accuracy: 86.88%
+2025-04-05 01:04:20,158 - INFO - Training completed for batch size 32 in 509.71 seconds
+2025-04-05 01:04:22,167 - INFO - Test Loss: 0.3142, Test Accuracy: 86.85%
+2025-04-05 01:04:22,168 - INFO - Test AUC-ROC: 0.9311
+2025-04-05 01:04:22,246 - INFO - Training with batch size 64...
+2025-04-05 01:04:22,247 - INFO - Loading data with batch size 64...
+2025-04-05 01:04:34,242 - INFO - Data shapes: Train (23898, 224, 224, 3), Val (5747, 224, 224, 3), Test (2874, 224, 224, 3)
+2025-04-05 01:05:17,384 - INFO - Epoch [1/10], Train Loss: 0.6111, Train Accuracy: 65.38%
+2025-04-05 01:05:20,885 - INFO - Validation Loss: 0.6596, Validation Accuracy: 65.53%
+2025-04-05 01:06:03,602 - INFO - Epoch [2/10], Train Loss: 0.5094, Train Accuracy: 74.76%
+2025-04-05 01:06:07,120 - INFO - Validation Loss: 0.5078, Validation Accuracy: 76.74%
+2025-04-05 01:06:49,862 - INFO - Epoch [3/10], Train Loss: 0.4472, Train Accuracy: 78.70%
+2025-04-05 01:06:53,369 - INFO - Validation Loss: 0.4444, Validation Accuracy: 80.69%
+2025-04-05 01:07:36,128 - INFO - Epoch [4/10], Train Loss: 0.4235, Train Accuracy: 80.14%
+2025-04-05 01:07:39,641 - INFO - Validation Loss: 0.4689, Validation Accuracy: 79.50%
+2025-04-05 01:08:22,391 - INFO - Epoch [5/10], Train Loss: 0.4021, Train Accuracy: 81.53%
+2025-04-05 01:08:25,922 - INFO - Validation Loss: 0.3753, Validation Accuracy: 84.15%
+2025-04-05 01:09:08,677 - INFO - Epoch [6/10], Train Loss: 0.3841, Train Accuracy: 82.43%
+2025-04-05 01:09:12,182 - INFO - Validation Loss: 0.3334, Validation Accuracy: 85.82%
+2025-04-05 01:09:54,932 - INFO - Epoch [7/10], Train Loss: 0.3731, Train Accuracy: 83.12%
+2025-04-05 01:09:58,457 - INFO - Validation Loss: 0.3138, Validation Accuracy: 87.11%
+2025-04-05 01:10:41,205 - INFO - Epoch [8/10], Train Loss: 0.3621, Train Accuracy: 83.30%
+2025-04-05 01:10:44,733 - INFO - Validation Loss: 0.3338, Validation Accuracy: 85.26%
+2025-04-05 01:11:27,471 - INFO - Epoch [9/10], Train Loss: 0.3499, Train Accuracy: 84.07%
+2025-04-05 01:11:30,978 - INFO - Validation Loss: 0.3098, Validation Accuracy: 86.64%
+2025-04-05 01:12:13,733 - INFO - Epoch [10/10], Train Loss: 0.3454, Train Accuracy: 84.24%
+2025-04-05 01:12:17,247 - INFO - Validation Loss: 0.3028, Validation Accuracy: 86.76%
+2025-04-05 01:12:17,248 - INFO - Training completed for batch size 64 in 462.67 seconds
+2025-04-05 01:12:19,201 - INFO - Test Loss: 0.3142, Test Accuracy: 86.19%
+2025-04-05 01:12:19,202 - INFO - Test AUC-ROC: 0.9439

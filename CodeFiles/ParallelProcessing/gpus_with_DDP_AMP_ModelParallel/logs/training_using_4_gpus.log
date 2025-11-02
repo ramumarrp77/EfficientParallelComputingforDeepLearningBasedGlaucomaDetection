@@ -1,0 +1,297 @@
+2025-04-04 20:11:59 - INFO - [Rank 0] Loading data from ../../preprocessed_glaucoma_data...
+2025-04-04 20:11:59 - INFO - [Rank 1] Loading data from ../../preprocessed_glaucoma_data...
+2025-04-04 20:11:59 - INFO - [Rank 2] Loading data from ../../preprocessed_glaucoma_data...
+2025-04-04 20:11:59 - INFO - [Rank 3] Loading data from ../../preprocessed_glaucoma_data...
+2025-04-04 20:16:18 - INFO - [Rank 0] Data loaded.
+2025-04-04 20:16:18 - INFO - [Rank 2] Data loaded.
+2025-04-04 20:16:18 - INFO - [Rank 1] Data loaded.
+2025-04-04 20:16:18 - INFO - [Rank 3] Data loaded.
+2025-04-04 20:16:22 - INFO - Model architecture: MedicalCNN
+2025-04-04 20:16:22 - INFO - Total layers: 129
+2025-04-04 20:16:22 - INFO - Total parameters: 22,494,274
+2025-04-04 20:16:26 - INFO - Epoch [1/10], Batch [0/187], Loss: 0.6746
+2025-04-04 20:16:27 - INFO - Epoch [1/10], Batch [10/187], Loss: 0.7315
+2025-04-04 20:16:28 - INFO - Epoch [1/10], Batch [20/187], Loss: 0.6218
+2025-04-04 20:16:29 - INFO - Epoch [1/10], Batch [30/187], Loss: 0.5900
+2025-04-04 20:16:30 - INFO - Epoch [1/10], Batch [40/187], Loss: 0.6077
+2025-04-04 20:16:31 - INFO - Epoch [1/10], Batch [50/187], Loss: 0.6250
+2025-04-04 20:16:32 - INFO - Epoch [1/10], Batch [60/187], Loss: 0.5801
+2025-04-04 20:16:33 - INFO - Epoch [1/10], Batch [70/187], Loss: 0.6533
+2025-04-04 20:16:34 - INFO - Epoch [1/10], Batch [80/187], Loss: 0.5705
+2025-04-04 20:16:35 - INFO - Epoch [1/10], Batch [90/187], Loss: 0.7005
+2025-04-04 20:16:36 - INFO - Epoch [1/10], Batch [100/187], Loss: 0.6821
+2025-04-04 20:16:37 - INFO - Epoch [1/10], Batch [110/187], Loss: 0.5653
+2025-04-04 20:16:38 - INFO - Epoch [1/10], Batch [120/187], Loss: 0.6346
+2025-04-04 20:16:39 - INFO - Epoch [1/10], Batch [130/187], Loss: 0.5957
+2025-04-04 20:16:40 - INFO - Epoch [1/10], Batch [140/187], Loss: 0.5321
+2025-04-04 20:16:41 - INFO - Epoch [1/10], Batch [150/187], Loss: 0.6153
+2025-04-04 20:16:41 - INFO - Epoch [1/10], Batch [160/187], Loss: 0.6019
+2025-04-04 20:16:43 - INFO - Epoch [1/10], Batch [170/187], Loss: 0.5258
+2025-04-04 20:16:43 - INFO - Epoch [1/10], Batch [180/187], Loss: 0.6157
+2025-04-04 20:16:45 - INFO - Epoch [1/10] Train Loss: 0.6354, Train Accuracy: 61.51%
+2025-04-04 20:16:47 - INFO - Epoch [1/10] Val Loss: 0.6012, Val Accuracy: 69.24%
+2025-04-04 20:16:47 - INFO - New best model at epoch 1 with val accuracy: 69.24%
+2025-04-04 20:16:48 - INFO - Epoch [2/10], Batch [0/187], Loss: 0.6088
+2025-04-04 20:16:49 - INFO - Epoch [2/10], Batch [10/187], Loss: 0.5517
+2025-04-04 20:16:49 - INFO - Epoch [2/10], Batch [20/187], Loss: 0.6696
+2025-04-04 20:16:50 - INFO - Epoch [2/10], Batch [30/187], Loss: 0.8990
+2025-04-04 20:16:51 - INFO - Epoch [2/10], Batch [40/187], Loss: 0.5155
+2025-04-04 20:16:52 - INFO - Epoch [2/10], Batch [50/187], Loss: 0.5332
+2025-04-04 20:16:53 - INFO - Epoch [2/10], Batch [60/187], Loss: 0.5286
+2025-04-04 20:16:54 - INFO - Epoch [2/10], Batch [70/187], Loss: 0.5853
+2025-04-04 20:16:55 - INFO - Epoch [2/10], Batch [80/187], Loss: 0.5493
+2025-04-04 20:16:56 - INFO - Epoch [2/10], Batch [90/187], Loss: 0.7116
+2025-04-04 20:16:57 - INFO - Epoch [2/10], Batch [100/187], Loss: 0.7599
+2025-04-04 20:16:58 - INFO - Epoch [2/10], Batch [110/187], Loss: 0.6443
+2025-04-04 20:16:59 - INFO - Epoch [2/10], Batch [120/187], Loss: 0.7446
+2025-04-04 20:17:00 - INFO - Epoch [2/10], Batch [130/187], Loss: 0.6526
+2025-04-04 20:17:01 - INFO - Epoch [2/10], Batch [140/187], Loss: 0.5463
+2025-04-04 20:17:02 - INFO - Epoch [2/10], Batch [150/187], Loss: 0.5691
+2025-04-04 20:17:03 - INFO - Epoch [2/10], Batch [160/187], Loss: 0.5675
+2025-04-04 20:17:04 - INFO - Epoch [2/10], Batch [170/187], Loss: 0.5385
+2025-04-04 20:17:05 - INFO - Epoch [2/10], Batch [180/187], Loss: 0.5698
+2025-04-04 20:17:05 - INFO - Epoch [2/10] Train Loss: 0.6038, Train Accuracy: 65.87%
+2025-04-04 20:17:07 - INFO - Epoch [2/10] Val Loss: 0.5311, Val Accuracy: 75.23%
+2025-04-04 20:17:07 - INFO - New best model at epoch 2 with val accuracy: 75.23%
+2025-04-04 20:17:07 - INFO - Epoch [3/10], Batch [0/187], Loss: 0.7097
+2025-04-04 20:17:08 - INFO - Epoch [3/10], Batch [10/187], Loss: 0.4818
+2025-04-04 20:17:09 - INFO - Epoch [3/10], Batch [20/187], Loss: 0.4550
+2025-04-04 20:17:10 - INFO - Epoch [3/10], Batch [30/187], Loss: 0.5839
+2025-04-04 20:17:11 - INFO - Epoch [3/10], Batch [40/187], Loss: 0.6258
+2025-04-04 20:17:12 - INFO - Epoch [3/10], Batch [50/187], Loss: 0.7211
+2025-04-04 20:17:13 - INFO - Epoch [3/10], Batch [60/187], Loss: 0.6380
+2025-04-04 20:17:14 - INFO - Epoch [3/10], Batch [70/187], Loss: 0.5205
+2025-04-04 20:17:15 - INFO - Epoch [3/10], Batch [80/187], Loss: 0.5805
+2025-04-04 20:17:16 - INFO - Epoch [3/10], Batch [90/187], Loss: 0.5666
+2025-04-04 20:17:17 - INFO - Epoch [3/10], Batch [100/187], Loss: 0.6195
+2025-04-04 20:17:18 - INFO - Epoch [3/10], Batch [110/187], Loss: 0.7919
+2025-04-04 20:17:18 - INFO - Epoch [3/10], Batch [120/187], Loss: 0.5245
+2025-04-04 20:17:19 - INFO - Epoch [3/10], Batch [130/187], Loss: 0.5626
+2025-04-04 20:17:20 - INFO - Epoch [3/10], Batch [140/187], Loss: 0.4384
+2025-04-04 20:17:21 - INFO - Epoch [3/10], Batch [150/187], Loss: 0.4595
+2025-04-04 20:17:22 - INFO - Epoch [3/10], Batch [160/187], Loss: 0.3491
+2025-04-04 20:17:23 - INFO - Epoch [3/10], Batch [170/187], Loss: 0.5397
+2025-04-04 20:17:24 - INFO - Epoch [3/10], Batch [180/187], Loss: 0.5856
+2025-04-04 20:17:25 - INFO - Epoch [3/10] Train Loss: 0.5587, Train Accuracy: 69.77%
+2025-04-04 20:17:26 - INFO - Epoch [3/10] Val Loss: 0.5595, Val Accuracy: 72.79%
+2025-04-04 20:17:26 - INFO - Epoch [4/10], Batch [0/187], Loss: 0.6916
+2025-04-04 20:17:27 - INFO - Epoch [4/10], Batch [10/187], Loss: 0.3909
+2025-04-04 20:17:28 - INFO - Epoch [4/10], Batch [20/187], Loss: 0.4540
+2025-04-04 20:17:29 - INFO - Epoch [4/10], Batch [30/187], Loss: 0.4821
+2025-04-04 20:17:30 - INFO - Epoch [4/10], Batch [40/187], Loss: 0.5349
+2025-04-04 20:17:31 - INFO - Epoch [4/10], Batch [50/187], Loss: 0.5488
+2025-04-04 20:17:32 - INFO - Epoch [4/10], Batch [60/187], Loss: 0.5105
+2025-04-04 20:17:33 - INFO - Epoch [4/10], Batch [70/187], Loss: 0.5179
+2025-04-04 20:17:34 - INFO - Epoch [4/10], Batch [80/187], Loss: 0.4787
+2025-04-04 20:17:35 - INFO - Epoch [4/10], Batch [90/187], Loss: 0.5118
+2025-04-04 20:17:36 - INFO - Epoch [4/10], Batch [100/187], Loss: 0.4374
+2025-04-04 20:17:37 - INFO - Epoch [4/10], Batch [110/187], Loss: 0.5610
+2025-04-04 20:17:38 - INFO - Epoch [4/10], Batch [120/187], Loss: 0.4558
+2025-04-04 20:17:39 - INFO - Epoch [4/10], Batch [130/187], Loss: 0.4666
+2025-04-04 20:17:40 - INFO - Epoch [4/10], Batch [140/187], Loss: 0.4519
+2025-04-04 20:17:41 - INFO - Epoch [4/10], Batch [150/187], Loss: 0.5054
+2025-04-04 20:17:41 - INFO - Epoch [4/10], Batch [160/187], Loss: 0.3870
+2025-04-04 20:17:42 - INFO - Epoch [4/10], Batch [170/187], Loss: 0.4879
+2025-04-04 20:17:43 - INFO - Epoch [4/10], Batch [180/187], Loss: 0.3606
+2025-04-04 20:17:44 - INFO - Epoch [4/10] Train Loss: 0.5034, Train Accuracy: 75.60%
+2025-04-04 20:17:45 - INFO - Epoch [4/10] Val Loss: 0.5828, Val Accuracy: 69.52%
+2025-04-04 20:17:46 - INFO - Epoch [5/10], Batch [0/187], Loss: 0.5077
+2025-04-04 20:17:47 - INFO - Epoch [5/10], Batch [10/187], Loss: 0.4800
+2025-04-04 20:17:48 - INFO - Epoch [5/10], Batch [20/187], Loss: 0.4583
+2025-04-04 20:17:49 - INFO - Epoch [5/10], Batch [30/187], Loss: 0.5439
+2025-04-04 20:17:50 - INFO - Epoch [5/10], Batch [40/187], Loss: 0.6282
+2025-04-04 20:17:51 - INFO - Epoch [5/10], Batch [50/187], Loss: 0.4146
+2025-04-04 20:17:52 - INFO - Epoch [5/10], Batch [60/187], Loss: 0.4632
+2025-04-04 20:17:52 - INFO - Epoch [5/10], Batch [70/187], Loss: 0.4585
+2025-04-04 20:17:53 - INFO - Epoch [5/10], Batch [80/187], Loss: 0.3792
+2025-04-04 20:17:54 - INFO - Epoch [5/10], Batch [90/187], Loss: 0.5414
+2025-04-04 20:17:55 - INFO - Epoch [5/10], Batch [100/187], Loss: 0.4081
+2025-04-04 20:17:56 - INFO - Epoch [5/10], Batch [110/187], Loss: 0.3169
+2025-04-04 20:17:57 - INFO - Epoch [5/10], Batch [120/187], Loss: 0.4497
+2025-04-04 20:17:58 - INFO - Epoch [5/10], Batch [130/187], Loss: 0.3345
+2025-04-04 20:17:59 - INFO - Epoch [5/10], Batch [140/187], Loss: 0.3193
+2025-04-04 20:18:00 - INFO - Epoch [5/10], Batch [150/187], Loss: 0.4951
+2025-04-04 20:18:01 - INFO - Epoch [5/10], Batch [160/187], Loss: 0.3261
+2025-04-04 20:18:02 - INFO - Epoch [5/10], Batch [170/187], Loss: 0.3768
+2025-04-04 20:18:03 - INFO - Epoch [5/10], Batch [180/187], Loss: 0.4649
+2025-04-04 20:18:03 - INFO - Epoch [5/10] Train Loss: 0.4497, Train Accuracy: 78.68%
+2025-04-04 20:18:04 - INFO - Epoch [5/10] Val Loss: 0.4036, Val Accuracy: 82.95%
+2025-04-04 20:18:04 - INFO - New best model at epoch 5 with val accuracy: 82.95%
+2025-04-04 20:18:05 - INFO - Epoch [6/10], Batch [0/187], Loss: 0.4629
+2025-04-04 20:18:06 - INFO - Epoch [6/10], Batch [10/187], Loss: 0.4344
+2025-04-04 20:18:07 - INFO - Epoch [6/10], Batch [20/187], Loss: 0.5249
+2025-04-04 20:18:08 - INFO - Epoch [6/10], Batch [30/187], Loss: 0.3997
+2025-04-04 20:18:09 - INFO - Epoch [6/10], Batch [40/187], Loss: 0.2492
+2025-04-04 20:18:10 - INFO - Epoch [6/10], Batch [50/187], Loss: 0.5826
+2025-04-04 20:18:11 - INFO - Epoch [6/10], Batch [60/187], Loss: 0.5447
+2025-04-04 20:18:12 - INFO - Epoch [6/10], Batch [70/187], Loss: 0.5543
+2025-04-04 20:18:12 - INFO - Epoch [6/10], Batch [80/187], Loss: 0.4047
+2025-04-04 20:18:13 - INFO - Epoch [6/10], Batch [90/187], Loss: 0.4025
+2025-04-04 20:18:14 - INFO - Epoch [6/10], Batch [100/187], Loss: 0.4539
+2025-04-04 20:18:15 - INFO - Epoch [6/10], Batch [110/187], Loss: 0.2890
+2025-04-04 20:18:16 - INFO - Epoch [6/10], Batch [120/187], Loss: 0.7276
+2025-04-04 20:18:17 - INFO - Epoch [6/10], Batch [130/187], Loss: 0.3732
+2025-04-04 20:18:18 - INFO - Epoch [6/10], Batch [140/187], Loss: 0.3110
+2025-04-04 20:18:19 - INFO - Epoch [6/10], Batch [150/187], Loss: 0.3659
+2025-04-04 20:18:20 - INFO - Epoch [6/10], Batch [160/187], Loss: 0.3208
+2025-04-04 20:18:21 - INFO - Epoch [6/10], Batch [170/187], Loss: 0.5300
+2025-04-04 20:18:22 - INFO - Epoch [6/10], Batch [180/187], Loss: 0.3288
+2025-04-04 20:18:22 - INFO - Epoch [6/10] Train Loss: 0.4141, Train Accuracy: 80.38%
+2025-04-04 20:18:24 - INFO - Epoch [6/10] Val Loss: 0.3676, Val Accuracy: 83.23%
+2025-04-04 20:18:24 - INFO - New best model at epoch 6 with val accuracy: 83.23%
+2025-04-04 20:18:24 - INFO - Epoch [7/10], Batch [0/187], Loss: 0.3115
+2025-04-04 20:18:25 - INFO - Epoch [7/10], Batch [10/187], Loss: 0.4382
+2025-04-04 20:18:26 - INFO - Epoch [7/10], Batch [20/187], Loss: 0.5259
+2025-04-04 20:18:27 - INFO - Epoch [7/10], Batch [30/187], Loss: 0.3867
+2025-04-04 20:18:28 - INFO - Epoch [7/10], Batch [40/187], Loss: 0.3450
+2025-04-04 20:18:29 - INFO - Epoch [7/10], Batch [50/187], Loss: 0.4975
+2025-04-04 20:18:30 - INFO - Epoch [7/10], Batch [60/187], Loss: 0.4336
+2025-04-04 20:18:31 - INFO - Epoch [7/10], Batch [70/187], Loss: 0.5301
+2025-04-04 20:18:32 - INFO - Epoch [7/10], Batch [80/187], Loss: 0.2665
+2025-04-04 20:18:33 - INFO - Epoch [7/10], Batch [90/187], Loss: 0.2979
+2025-04-04 20:18:34 - INFO - Epoch [7/10], Batch [100/187], Loss: 0.4105
+2025-04-04 20:18:35 - INFO - Epoch [7/10], Batch [110/187], Loss: 0.3322
+2025-04-04 20:18:36 - INFO - Epoch [7/10], Batch [120/187], Loss: 0.6023
+2025-04-04 20:18:37 - INFO - Epoch [7/10], Batch [130/187], Loss: 0.4085
+2025-04-04 20:18:38 - INFO - Epoch [7/10], Batch [140/187], Loss: 0.5231
+2025-04-04 20:18:38 - INFO - Epoch [7/10], Batch [150/187], Loss: 0.4147
+2025-04-04 20:18:39 - INFO - Epoch [7/10], Batch [160/187], Loss: 0.3671
+2025-04-04 20:18:40 - INFO - Epoch [7/10], Batch [170/187], Loss: 0.5818
+2025-04-04 20:18:41 - INFO - Epoch [7/10], Batch [180/187], Loss: 0.2555
+2025-04-04 20:18:42 - INFO - Epoch [7/10] Train Loss: 0.3946, Train Accuracy: 81.07%
+2025-04-04 20:18:43 - INFO - Epoch [7/10] Val Loss: 0.3313, Val Accuracy: 85.73%
+2025-04-04 20:18:43 - INFO - New best model at epoch 7 with val accuracy: 85.73%
+2025-04-04 20:18:44 - INFO - Epoch [8/10], Batch [0/187], Loss: 0.5147
+2025-04-04 20:18:45 - INFO - Epoch [8/10], Batch [10/187], Loss: 0.4213
+2025-04-04 20:18:45 - INFO - Epoch [8/10], Batch [20/187], Loss: 0.4535
+2025-04-04 20:18:46 - INFO - Epoch [8/10], Batch [30/187], Loss: 0.2741
+2025-04-04 20:18:47 - INFO - Epoch [8/10], Batch [40/187], Loss: 0.2820
+2025-04-04 20:18:48 - INFO - Epoch [8/10], Batch [50/187], Loss: 0.2558
+2025-04-04 20:18:49 - INFO - Epoch [8/10], Batch [60/187], Loss: 0.2053
+2025-04-04 20:18:50 - INFO - Epoch [8/10], Batch [70/187], Loss: 0.4048
+2025-04-04 20:18:51 - INFO - Epoch [8/10], Batch [80/187], Loss: 0.5460
+2025-04-04 20:18:52 - INFO - Epoch [8/10], Batch [90/187], Loss: 0.4790
+2025-04-04 20:18:53 - INFO - Epoch [8/10], Batch [100/187], Loss: 0.3514
+2025-04-04 20:18:54 - INFO - Epoch [8/10], Batch [110/187], Loss: 0.2763
+2025-04-04 20:18:55 - INFO - Epoch [8/10], Batch [120/187], Loss: 0.2469
+2025-04-04 20:18:56 - INFO - Epoch [8/10], Batch [130/187], Loss: 0.2632
+2025-04-04 20:18:57 - INFO - Epoch [8/10], Batch [140/187], Loss: 0.3718
+2025-04-04 20:18:58 - INFO - Epoch [8/10], Batch [150/187], Loss: 0.3687
+2025-04-04 20:18:59 - INFO - Epoch [8/10], Batch [160/187], Loss: 0.3031
+2025-04-04 20:19:00 - INFO - Epoch [8/10], Batch [170/187], Loss: 0.3452
+2025-04-04 20:19:00 - INFO - Epoch [8/10], Batch [180/187], Loss: 0.4195
+2025-04-04 20:19:01 - INFO - Epoch [8/10] Train Loss: 0.3584, Train Accuracy: 83.41%
+2025-04-04 20:19:02 - INFO - Epoch [8/10] Val Loss: 0.2918, Val Accuracy: 87.75%
+2025-04-04 20:19:02 - INFO - New best model at epoch 8 with val accuracy: 87.75%
+2025-04-04 20:19:03 - INFO - Epoch [9/10], Batch [0/187], Loss: 0.2644
+2025-04-04 20:19:04 - INFO - Epoch [9/10], Batch [10/187], Loss: 0.3997
+2025-04-04 20:19:05 - INFO - Epoch [9/10], Batch [20/187], Loss: 0.1991
+2025-04-04 20:19:06 - INFO - Epoch [9/10], Batch [30/187], Loss: 0.2616
+2025-04-04 20:19:07 - INFO - Epoch [9/10], Batch [40/187], Loss: 0.3571
+2025-04-04 20:19:08 - INFO - Epoch [9/10], Batch [50/187], Loss: 0.2112
+2025-04-04 20:19:08 - INFO - Epoch [9/10], Batch [60/187], Loss: 0.2010
+2025-04-04 20:19:09 - INFO - Epoch [9/10], Batch [70/187], Loss: 0.2972
+2025-04-04 20:19:11 - INFO - Epoch [9/10], Batch [80/187], Loss: 0.2948
+2025-04-04 20:19:11 - INFO - Epoch [9/10], Batch [90/187], Loss: 0.3266
+2025-04-04 20:19:12 - INFO - Epoch [9/10], Batch [100/187], Loss: 0.4104
+2025-04-04 20:19:13 - INFO - Epoch [9/10], Batch [110/187], Loss: 0.2335
+2025-04-04 20:19:14 - INFO - Epoch [9/10], Batch [120/187], Loss: 0.3088
+2025-04-04 20:19:15 - INFO - Epoch [9/10], Batch [130/187], Loss: 0.2593
+2025-04-04 20:19:16 - INFO - Epoch [9/10], Batch [140/187], Loss: 0.4145
+2025-04-04 20:19:17 - INFO - Epoch [9/10], Batch [150/187], Loss: 0.3046
+2025-04-04 20:19:18 - INFO - Epoch [9/10], Batch [160/187], Loss: 0.3489
+2025-04-04 20:19:19 - INFO - Epoch [9/10], Batch [170/187], Loss: 0.4187
+2025-04-04 20:19:20 - INFO - Epoch [9/10], Batch [180/187], Loss: 0.3149
+2025-04-04 20:19:20 - INFO - Epoch [9/10] Train Loss: 0.3485, Train Accuracy: 83.65%
+2025-04-04 20:19:22 - INFO - Epoch [9/10] Val Loss: 0.2806, Val Accuracy: 88.17%
+2025-04-04 20:19:22 - INFO - New best model at epoch 9 with val accuracy: 88.17%
+2025-04-04 20:19:22 - INFO - Epoch [10/10], Batch [0/187], Loss: 0.3990
+2025-04-04 20:19:23 - INFO - Epoch [10/10], Batch [10/187], Loss: 0.4562
+2025-04-04 20:19:24 - INFO - Epoch [10/10], Batch [20/187], Loss: 0.3995
+2025-04-04 20:19:25 - INFO - Epoch [10/10], Batch [30/187], Loss: 0.3216
+2025-04-04 20:19:26 - INFO - Epoch [10/10], Batch [40/187], Loss: 0.4217
+2025-04-04 20:19:27 - INFO - Epoch [10/10], Batch [50/187], Loss: 0.2401
+2025-04-04 20:19:28 - INFO - Epoch [10/10], Batch [60/187], Loss: 0.2273
+2025-04-04 20:19:29 - INFO - Epoch [10/10], Batch [70/187], Loss: 0.3900
+2025-04-04 20:19:30 - INFO - Epoch [10/10], Batch [80/187], Loss: 0.4524
+2025-04-04 20:19:31 - INFO - Epoch [10/10], Batch [90/187], Loss: 0.5130
+2025-04-04 20:19:32 - INFO - Epoch [10/10], Batch [100/187], Loss: 0.1921
+2025-04-04 20:19:33 - INFO - Epoch [10/10], Batch [110/187], Loss: 0.3771
+2025-04-04 20:19:33 - INFO - Epoch [10/10], Batch [120/187], Loss: 0.2501
+2025-04-04 20:19:34 - INFO - Epoch [10/10], Batch [130/187], Loss: 0.2480
+2025-04-04 20:19:35 - INFO - Epoch [10/10], Batch [140/187], Loss: 0.5998
+2025-04-04 20:19:36 - INFO - Epoch [10/10], Batch [150/187], Loss: 0.4085
+2025-04-04 20:19:37 - INFO - Epoch [10/10], Batch [160/187], Loss: 0.3360
+2025-04-04 20:19:38 - INFO - Epoch [10/10], Batch [170/187], Loss: 0.3641
+2025-04-04 20:19:39 - INFO - Epoch [10/10], Batch [180/187], Loss: 0.2918
+2025-04-04 20:19:40 - INFO - Epoch [10/10] Train Loss: 0.3361, Train Accuracy: 84.38%
+2025-04-04 20:19:41 - INFO - Epoch [10/10] Val Loss: 0.2730, Val Accuracy: 88.10%
+2025-04-04 20:19:42 - INFO - Test Loss: 0.3035, Test Accuracy: 86.79%
+2025-04-04 20:19:42 - INFO - 
+===== Final Performance Results =====
+2025-04-04 20:19:42 - INFO - {
+    "world_size": 4,
+    "train_time": 198.9313611984253,
+    "avg_epoch_time": 19.89313611984253,
+    "val_accuracy": 88.16979819067502,
+    "test_accuracy": 86.78720445062586,
+    "test_loss": 0.3034796742139506,
+    "total_time": 198.9313611984253,
+    "train_losses": [
+        0.6354442041887898,
+        0.6038203507387488,
+        0.5587076033508428,
+        0.5034305914874855,
+        0.4497242580597371,
+        0.4140833946351726,
+        0.39460167870361934,
+        0.3583885454483112,
+        0.34850505183431396,
+        0.33610638033894813
+    ],
+    "train_accuracies": [
+        61.50627615062761,
+        65.8744769874477,
+        69.77405857740585,
+        75.59832635983264,
+        78.67782426778243,
+        80.38493723849372,
+        81.07112970711297,
+        83.4142259414226,
+        83.64853556485356,
+        84.38493723849372
+    ],
+    "val_losses": [
+        0.6011505724243928,
+        0.5311214469253975,
+        0.5595132090934217,
+        0.5828365644151001,
+        0.4035547260368708,
+        0.36763012575124315,
+        0.3312854131187261,
+        0.2917904443598159,
+        0.28060775605356353,
+        0.2730240064025672
+    ],
+    "val_accuracies": [
+        69.24147529575505,
+        75.22616562282533,
+        72.79053583855254,
+        69.51983298538622,
+        82.95059151009046,
+        83.22894919972164,
+        85.73416840640223,
+        87.75226165622826,
+        88.16979819067502,
+        88.10020876826722
+    ],
+    "hyperparameters": {
+        "batch_size": 32,
+        "num_epochs": 10,
+        "initial_lr": 0.001,
+        "weight_decay": 0.0001,
+        "num_classes": 2,
+        "save_model": true
+    }
+}
+2025-04-04 20:19:43 - INFO - Model saved to models/training_using_gpus_4_best_model.pt
